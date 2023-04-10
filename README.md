@@ -1,4 +1,4 @@
-# The horror game of year
+# The Horror Game of Year
 Rocketseat - Stage: Landing Page
 
 ## Preview
